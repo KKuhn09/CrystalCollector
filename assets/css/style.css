@@ -1,0 +1,73 @@
+body{
+	background-image: url("../images/playstation/playstation-pattern.png");
+}
+
+h1{
+	background: #afffe9;
+	border-style: solid;
+	border-color: #69998c;
+	width: 250px;
+}
+
+#instructions{
+	background: #aeffad;
+	width: 400px;
+	border-style: solid;
+	border-color: #5d895c;
+}
+
+.div1{
+	width: 350px;
+	height: 150px;
+	padding-bottom: 10px;
+}
+
+#random-number{
+	background: #f2a58a;
+	width: 200px;
+	height: 150px;
+	border-style: solid;
+	border-color: #7c5648;
+	font-size: 300%;
+	display: inline-block;
+	float: left;
+}
+
+aside{
+	background: #bea0ff;
+	width: 100px;
+	height: 150px;
+	border-style: solid;
+	border-color: #5e4f7c;
+	display: inline-block;
+	float: right;
+}
+
+.div2{
+	width: 500px;
+	clear: both;
+	margin-top: 20px;
+}
+
+img:hover{
+	opacity: 0.4;
+}
+img:active{
+	opacity: 1.0;
+}
+
+#score{
+	background: #ffb7fc;
+	width: 200px;
+	border-style: solid;
+	border-color: #755574;
+}
+
+#total{
+	background: #ffb7fc;
+	width: 200px;
+	height: 100px;
+	border-style: solid;
+	border-color: #755574;
+	font-size: 300%;
+}
