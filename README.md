@@ -1,1 +1,2 @@
-# week-4-game
+# Crystal Collector Game
+Game that generates a random number that the player will have to reach. There are 4 gem buttons that are assigned random numbers hidden to the player, and clicking on each gem will add its number to the players total number. If the players number reaches exactly the games randomly generated number, they will win, receiving a "win" point and resetting the game. If the players number goes over the games randomly generated number, then the player will lose, receiving a "lose" point and resetting the game.
